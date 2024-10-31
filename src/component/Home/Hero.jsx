@@ -18,7 +18,7 @@ const Hero = () => {
           <div className="">
             <img
               src="https://giftstore.netlify.app/assets/images/Background.png"
-              className="w-[800px] h-700"
+              className="w-[800px] h-712"
             />
           </div>
         </div>
