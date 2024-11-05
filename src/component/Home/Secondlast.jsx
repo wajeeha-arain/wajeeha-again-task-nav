@@ -12,7 +12,7 @@ const Secondlast = () => {
             <img src="https://giftstore.netlify.app/assets/images/couple.png" alt="" />
           <div className='px-20 py-20 '>
           <p> Mr. john Doe</p>
-            <p className='text-5xl py-6 leading-[58px]'>The best way to <br /> wish your wife</p>
+            <p className='text-5xl py-6 leading-[58px]'>The best way t0 <br /> wish your wife</p>
             <p className='pt-6'>Read More</p>
           </div>
         </div>
