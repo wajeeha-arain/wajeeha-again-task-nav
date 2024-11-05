@@ -3,7 +3,9 @@ import React from 'react'
 const Secondlast = () => {
   return (
     <div>
-      <div className='pt-20 max-w-[1440px] w-full mx-auto'>
+        hhhhh
+        
+      {/* <div className='pt-20 max-w-[1440px] w-full mx-auto'>
         <div className='text-center leading-10 '>
             <h1 className='text-3xl font-semibold '>Our Best Blogs Ever</h1>
             <p className='' >"Try our blog to find the best tips and tricks to select your gift"</p>
@@ -27,7 +29,7 @@ const Secondlast = () => {
             </div>
         </div>
 
-      </div>
+      </div> */}
     </div>
   )
 }
