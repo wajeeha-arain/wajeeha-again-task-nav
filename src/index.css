@@ -4,3 +4,12 @@
 .main-container {
     @apply max-w-[1440px] w-full mx-auto;
 }
+/* .btn-sation{
+    @apply{
+        @media screen(max-w-[400px]) {
+        
+                flex-row
+            
+        }
+    }
+} */
