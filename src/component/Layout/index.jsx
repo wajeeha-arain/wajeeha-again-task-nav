@@ -10,10 +10,6 @@ const Layout = ({ children }) => {
     <div>
       <Navbar />
       {children}
-
-         <Linebar/>
-        <Secondlast/>
-        <Descriptionboxs/>
       <Footer />
     </div>
   );

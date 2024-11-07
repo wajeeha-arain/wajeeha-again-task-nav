@@ -5,6 +5,7 @@ const Secondlast = () => {
     <div>
       
 {/*         
+<h1>helloadd </h1>
       <div className='pt-20 max-w-[1440px] w-full mx-auto'> */}
         <div className='text-center leading-10 pt-20 '>
             <h1 className='text-3xl font-semibold '>Our Best Blogs Ever</h1>

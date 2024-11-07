@@ -3,7 +3,7 @@ import React from "react";
 const Hero = () => {
   return (
 <div className="max-w-[1440px] w-full mx-auto">
-      <div className="flex justify-between items-center bg-primary md:flex-row flex-col ">
+      <div className="flex justify-between bg-[#F1F1F2] items-center bg-primary md:flex-row flex-col ">
         <div className="  h-full md:w-1/2 w-full">
           <div className="md:max-w-[60%] max-w-full w-full mx-auto md:px-0 px-8 md:py-0 py-14">
             <h1 className="lg:text-6xl font-semibold md:text-3xl text-2xl leading-7 ">
@@ -27,7 +27,7 @@ const Hero = () => {
           <img src="https://giftstore.netlify.app/assets/images/Background.png" alt="" className="w-full h-full" />
         </div>
       </div>
-      <div className="flex justify-between items-center bg-primary  md:flex-row flex-col-reverse">
+      <div className="flex justify-between bg-[#F1F1F2] items-center bg-primary  md:flex-row flex-col-reverse">
         <div className="md:w-1/2 w-full">
           <img src="https://giftstore.netlify.app/assets/images/Media.png" alt="" className="w-full h-full" />
         </div>
