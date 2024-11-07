@@ -3,7 +3,7 @@ import Hero from "./Hero";
 import Layout from "../Layout";
 import Cards from "./Cards";
 import Linebar from "./Linebar";
-import Secondlast from "./secondlast";
+import Second from "./Second";
 import Descriptionboxs from "./Descriptionboxs";
 
 const Home = () => {
@@ -11,10 +11,10 @@ const Home = () => {
     <div>
       <Layout>
         <Hero />
-        <Cards/>
-        <Linebar/>
-        <Secondlast/>
-        <Descriptionboxs/>
+        <Cards />
+        <Linebar />
+        <Second />
+        <Descriptionboxs />
       </Layout>
     </div>
   );

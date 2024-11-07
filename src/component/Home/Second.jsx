@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Secondlast = () => {
+const Second = () => {
   return (
     <div>
       
@@ -32,4 +32,4 @@ const Secondlast = () => {
   )
 }
 
-export default Secondlast
+export default Second
