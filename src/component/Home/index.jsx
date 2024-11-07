@@ -12,9 +12,9 @@ const Home = () => {
       <Layout>
         <Hero />
         <Cards/>
-        <Linebar/>
+        {/* <Linebar/>
         <Secondlast/>
-        <Descriptionboxs/>
+        <Descriptionboxs/> */}
       </Layout>
     </div>
   );
