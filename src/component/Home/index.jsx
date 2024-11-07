@@ -4,6 +4,7 @@ import Layout from "../Layout";
 import Cards from "./Cards";
 import Linebar from "./Linebar";
 import Secondlast from "./secondlast";
+import Descriptionboxs from "./Descriptionboxs";
 
 const Home = () => {
   return (
@@ -13,6 +14,7 @@ const Home = () => {
         <Cards/>
         <Linebar/>
         <Secondlast/>
+        <Descriptionboxs/>
       </Layout>
     </div>
   );
