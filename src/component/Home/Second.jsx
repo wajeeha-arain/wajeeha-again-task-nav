@@ -19,7 +19,7 @@ const Second = () => {
          
             <img className='' src="https://giftstore.netlify.app/assets/images/couple.png" alt="" />
            
-          <div className= ' min-h-[340px] max-w-[1170px]  px-20 py-14 '>
+          <div className= ' min-h-[340px] max-w-[1170px]   px-20 py-14 max-lg:text-center'>
           <p> Mr. john Doe</p>
             <p className='text-5xl py-6 leading-[58px]'>The best way to <br /> wish your wife</p>
             <p className='pt-6'>Read More</p>
