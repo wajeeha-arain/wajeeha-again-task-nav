@@ -19,7 +19,7 @@ const Linebar = () => {
             </button>
        
             <button className=" text-black px-14 py-3 rounded-md hover:bg-black
-             hover:text-[#fff] transition-all duration-10 ease-in-out  border border-[#000] ">
+             hover:text-white transition-all duration-10 ease-in-out  border border-[#000] ">
             How it work
             </button>
        
