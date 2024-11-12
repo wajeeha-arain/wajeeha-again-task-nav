@@ -34,7 +34,7 @@ const Hero = () => {
           <img src="https://giftstore.netlify.app/assets/images/Media.png" alt="" className="w-full h-full" />
         </div>
         <div className="md:w-1/2 w-full">
-          <div className="md:max-w-[60%] max-w-full w-full mx-auto md:px-0 px-8 md:py-0 py-14 max-lg:w-[70%] max-lg:py-6 ">
+          <div className="md:max-w-[70%] max-w-full w-full mx-auto md:px-0 px-8 md:py-0 py-14 max-lg:w-[70%] max-lg:py-6 ">
             <h1 className="lg:text-5xl font-semibold md:text-3xl text-2xl leading-7 ">
             How we work
             </h1>
